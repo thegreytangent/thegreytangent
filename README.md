@@ -47,8 +47,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thegreytangent"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thegreytangent" /></a><a href="https://ko-fi.com/thegreytangent"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thegreytangent" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegreytangent&show_icons=true&locale=en&layout=compact" alt="thegreytangent" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreytangent&show_icons=true&locale=en" alt="thegreytangent" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegreytangent&" alt="thegreytangent" /></p>
