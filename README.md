@@ -1,9 +1,4 @@
 
-
-# Hi there 👋
-
-
-
 <div style="padding: 20px;">
 
   <div style=" width:50%; float: left;padding: 20px;">
