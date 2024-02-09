@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thegreytangent](https://github.com/thegreytangent)
 
-- 📝 I regularly write articles on [dev.to/thegreytangent](dev.to/thegreytangent)
+- 📝 I regularly write articles on [dev.to/thegreytangent](https://dev.to/thegreytangent)
 
 - 💬 Ask me about **blockchain, laravel, nodejs,python, linux scripting, and server admistration**
 
