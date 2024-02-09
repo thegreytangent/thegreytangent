@@ -2,32 +2,21 @@
 
 # Hi there 👋
 
-<div align="left">
-  <a href="https://twitter.com/omBratteng">
-    <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
 
 
-<a href="https://app.daily.dev/thegreytangent">
+<div style="padding: 20px;">
+
+  <div style=" width:50%; float: left;padding: 20px;">
+  <a href="https://app.daily.dev/thegreytangent">
 <img 
 width="320"
 align="right"
 src="https://api.daily.dev/devcards/ecf637036af043d6b60c1dac3a8752a2.png?r=fl5"  alt="thegreytangent's Dev Card"/>
 </a>
-
-</div>
-
-
-<h1 align="center">Hi 👋, I'm Jason V. Castellano</h1>
+  </div>
+  
+  <div  style=" width:50%; float: left;padding: 20px;">
+  <h1 align="center">Hi 👋, I'm Jason V. Castellano</h1>
 <h3 align="center">
   a software engineer with a passion for finding a solutions to complex problems, 
   knowledgeable in both cybersecurity and blockchain technology, and currently teaching in some universities
@@ -85,4 +74,11 @@ src="https://api.daily.dev/devcards/ecf637036af043d6b60c1dac3a8752a2.png?r=fl5" 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegreytangent&show_icons=true&locale=en" alt="thegreytangent" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegreytangent&" alt="thegreytangent" /></p>
+  </div>
+  
+</div>
+
+
+
+
 
