@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thegreytangent@gmail.com**
 
-- 📄 Know about my experiences [https://www.google.com/search?q=thegreytangent](https://www.google.com/search?q=thegreytangent)
+- 📄 Know me better -> [https://www.google.com/search?q=thegreytangent](https://www.google.com/search?q=thegreytangent)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
